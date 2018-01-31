@@ -16,6 +16,9 @@ public class Git {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Calculadora c = new Calculadora(4,2);
+        //System.out.println(c.suma));
     }
+    
     
 }
